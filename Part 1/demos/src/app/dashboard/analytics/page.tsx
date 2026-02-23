@@ -74,7 +74,7 @@ const Analytics = () => {
       </div>
       {/*Recent Activities */}
       <div className="mb-8">
-        <h2 className="text-xl ">Recent Activities</h2>
+        <h2 className="text-xl font-semibold text-gray-700 mb-4">Recent Activities</h2>
       </div>
     </div>
   );
